@@ -32,7 +32,16 @@ const options = {
 
 const specs = swaggerJsdoc(options);
 
-app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(specs));
+app.get('/api-docs/swagger.json', (req, res) => {
+  res.setHeader('Content-Type', 'application/json');
+  res.send(specs);
+});
+
+app.use(
+  "/api-docs",
+  swaggerUi.serve,
+  swaggerUi.setup(null, { swaggerUrl: "/api-docs/swagger.json" })
+);
 
 app.get("/", (req, res) => {
   res.send("Hello World!");
