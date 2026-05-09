@@ -16,6 +16,16 @@ const options = {
       version: "1.0.0",
       description: "API wisata Indonesia",
     },
+    servers: [
+      {
+        url: "https://mobile-api-beryl.vercel.app",
+        description: "Vercel Server",
+      },
+      {
+        url: "http://localhost:3000",
+        description: "Local Server",
+      },
+    ],
   },
   apis: ["./server.js"],
 };
