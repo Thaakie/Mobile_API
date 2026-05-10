@@ -26,7 +26,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
         "kota": "Badung",
         "provinsi": "Bali",
         "rating": 4.8,
-        "gambar": "https://example.com/image.jpg"
+        "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "deskripsi": "Pantai Kuta adalah sebuah tujuan wisata terkenal di Bali, Indonesia. Terkenal dengan pasir putihnya yang panjang dan ombaknya yang cocok untuk berselancar, pantai ini menarik wisatawan dari seluruh dunia."
       },
       {
         "id": 2,
@@ -35,7 +36,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
         "kota": "Magelang",
         "provinsi": "Jawa Tengah",
         "rating": 4.9,
-        "gambar": "https://example.com/image.jpg"
+        "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "deskripsi": "Candi Borobudur adalah candi Buddha terbesar di dunia dan salah satu monumen Buddha terbesar di dunia. Candi ini merupakan salah satu dari Situs Warisan Dunia UNESCO."
       }
     ]
   }
@@ -61,7 +63,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
       "kota": "Badung",
       "provinsi": "Bali",
       "rating": 4.8,
-      "gambar": "https://example.com/image.jpg"
+      "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "deskripsi": "Pantai Kuta adalah sebuah tujuan wisata terkenal di Bali, Indonesia. Terkenal dengan pasir putihnya yang panjang dan ombaknya yang cocok untuk berselancar, pantai ini menarik wisatawan dari seluruh dunia."
     }
   }
   ```
@@ -88,7 +91,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
     "kota": "Ende",
     "provinsi": "NTT",
     "rating": 4.9,
-    "gambar": "https://example.com/image.jpg"
+    "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "deskripsi": "Danau Kelimutu adalah danau kawah yang terletak di puncak Gunung Kelimutu di Flores, Indonesia. Danau ini terkenal dengan tiga warnanya yang berbeda."
   }
   ```
 - **Success Response (201 Created)**:
@@ -102,7 +106,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
       "kota": "Ende",
       "provinsi": "NTT",
       "rating": 4.9,
-      "gambar": "https://example.com/image.jpg"
+      "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "deskripsi": "Danau Kelimutu adalah danau kawah yang terletak di puncak Gunung Kelimutu di Flores, Indonesia. Danau ini terkenal dengan tiga warnanya yang berbeda."
     }
   }
   ```
@@ -134,7 +139,8 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
       "kota": "Badung",
       "provinsi": "Bali",
       "rating": 4.9,
-      "gambar": "https://example.com/image.jpg"
+      "gambar": "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "deskripsi": "Pantai Kuta adalah sebuah tujuan wisata terkenal di Bali, Indonesia. Terkenal dengan pasir putihnya yang panjang dan ombaknya yang cocok untuk berselancar, pantai ini menarik wisatawan dari seluruh dunia."
     }
   }
   ```
@@ -165,7 +171,7 @@ This is a mock API for Indonesian tourist destinations, intended for frontend de
 - **Error Response (404 Not Found)**:
   ```json
   {
-    "success": false,
+    "success": false,,
     "message": "Data tidak ditemukan"
   }
   ```
