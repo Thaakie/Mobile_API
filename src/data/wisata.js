@@ -6,8 +6,8 @@ let data = [
     kota: "Badung",
     provinsi: "Bali",
     rating: 4.8,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pantai Kuta adalah sebuah tujuan wisata terkenal di Bali, Indonesia. Terkenal dengan pasir putihnya yang panjang dan ombaknya yang cocok untuk berselancar, pantai ini menarik wisatawan dari seluruh dunia."
+    gambar: "https://images.unsplash.com/photo-1507728552696-0310d32d2f2b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pantai Kuta adalah sebuah tujuan wisata terkenal di Bali, Indonesia. Terkenal dengan pasir putihnya yang panjang dan ombaknya yang cocok untuk berselancar, pantai ini menarik wisatawan dari seluruh dunia.",
   },
   {
     id: 2,
@@ -16,8 +16,8 @@ let data = [
     kota: "Magelang",
     provinsi: "Jawa Tengah",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Candi Borobudur adalah candi Buddha terbesar di dunia dan salah satu monumen Buddha terbesar di dunia. Candi ini merupakan salah satu dari Situs Warisan Dunia UNESCO."
+    gambar: "https://images.unsplash.com/photo-1596489322138-345395561b32?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Candi Borobudur adalah candi Buddha terbesar di dunia dan salah satu monumen Buddha terbesar di dunia. Candi ini merupakan salah satu dari Situs Warisan Dunia UNESCO.",
   },
   {
     id: 3,
@@ -26,8 +26,8 @@ let data = [
     kota: "Toba",
     provinsi: "Sumatera Utara",
     rating: 4.7,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Danau Toba adalah danau vulkanik besar di Sumatera Utara, Indonesia. Ini adalah danau terbesar di Indonesia dan danau vulkanik terbesar di dunia."
+    gambar: "https://images.unsplash.com/photo-1568653632768-3058475d4913?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Danau Toba adalah danau vulkanik besar di Sumatera Utara, Indonesia. Ini adalah danau terbesar di Indonesia dan danau vulkanik terbesar di dunia.",
   },
   {
     id: 4,
@@ -36,8 +36,8 @@ let data = [
     kota: "Waisai",
     provinsi: "Papua Barat",
     rating: 5.0,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Kepulauan Raja Ampat adalah sebuah kepulauan yang terdiri dari lebih dari 1.500 pulau kecil, di lepas pantai barat laut Semenanjung Kepala Burung di Papua Barat."
+    gambar: "https://images.unsplash.com/photo-1594995393436-e8d393b4a625?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Kepulauan Raja Ampat adalah sebuah kepulauan yang terdiri dari lebih dari 1.500 pulau kecil, di lepas pantai barat laut Semenanjung Kepala Burung di Papua Barat.",
   },
   {
     id: 5,
@@ -46,8 +46,8 @@ let data = [
     kota: "Probolinggo",
     provinsi: "Jawa Timur",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Gunung Bromo adalah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini termasuk dalam Taman Nasional Bromo Tengger Semeru."
+    gambar: "https://images.unsplash.com/photo-1588667562426-3c223e7425e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Gunung Bromo adalah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini termasuk dalam Taman Nasional Bromo Tengger Semeru.",
   },
   {
     id: 6,
@@ -56,8 +56,8 @@ let data = [
     kota: "Banyuwangi",
     provinsi: "Jawa Timur",
     rating: 4.8,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Kawah Ijen adalah sebuah danau kawah asam yang terletak di puncak Gunung Ijen di Jawa Timur, Indonesia. Kawah ini terkenal dengan api birunya yang unik."
+    gambar: "https://images.unsplash.com/photo-1598289422004-954f98147820?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Kawah Ijen adalah sebuah danau kawah asam yang terletak di puncak Gunung Ijen di Jawa Timur, Indonesia. Kawah ini terkenal dengan api birunya yang unik.",
   },
   {
     id: 7,
@@ -66,8 +66,8 @@ let data = [
     kota: "Bantul",
     provinsi: "DI Yogyakarta",
     rating: 4.5,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pantai Parangtritis adalah salah satu pantai paling terkenal di Yogyakarta. Pantai ini terkenal dengan pasirnya yang hitam dan ombaknya yang besar."
+    gambar: "https://images.unsplash.com/photo-1628430375807-96d5d5945899?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pantai Parangtritis adalah salah satu pantai paling terkenal di Yogyakarta. Pantai ini terkenal dengan pasirnya yang hitam dan ombaknya yang besar.",
   },
   {
     id: 8,
@@ -76,8 +76,8 @@ let data = [
     kota: "Jakarta Timur",
     provinsi: "DKI Jakarta",
     rating: 4.6,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Taman Mini Indonesia Indah adalah sebuah taman rekreasi yang merangkum budaya Indonesia dalam skala kecil. Taman ini memiliki anjungan-anjungan yang mewakili setiap provinsi di Indonesia."
+    gambar: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istana_Anak-Anak_Indonesia_TMII.jpg/1280px-Istana_Anak-Anak_Indonesia_TMII.jpg",
+    deskripsi: "Taman Mini Indonesia Indah adalah sebuah taman rekreasi yang merangkum budaya Indonesia dalam skala kecil. Taman ini memiliki anjungan-anjungan yang mewakili setiap provinsi di Indonesia.",
   },
   {
     id: 9,
@@ -86,8 +86,8 @@ let data = [
     kota: "Jakarta Pusat",
     provinsi: "DKI Jakarta",
     rating: 4.7,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Monumen Nasional, atau Monas, adalah monumen peringatan setinggi 132 meter di pusat Jakarta, Indonesia. Monumen ini melambangkan perjuangan kemerdekaan Indonesia."
+    gambar: "https://images.unsplash.com/photo-1592325514682-2a08493f6517?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Monumen Nasional, atau Monas, adalah monumen peringatan setinggi 132 meter di pusat Jakarta, Indonesia. Monumen ini melambangkan perjuangan kemerdekaan Indonesia.",
   },
   {
     id: 10,
@@ -96,8 +96,8 @@ let data = [
     kota: "Lombok",
     provinsi: "NTB",
     rating: 4.8,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pantai Pink, atau Pantai Tangsi, adalah salah satu pantai paling unik di Lombok. Pasirnya yang berwarna merah muda berasal dari serpihan karang merah yang hancur."
+    gambar: "https://images.unsplash.com/photo-1629853114050-71649511677a?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pantai Pink, atau Pantai Tangsi, adalah salah satu pantai paling unik di Lombok. Pasirnya yang berwarna merah muda berasal dari serpihan karang merah yang hancur.",
   },
   {
     id: 11,
@@ -106,8 +106,8 @@ let data = [
     kota: "Labuan Bajo",
     provinsi: "NTT",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pulau Komodo adalah salah satu dari tiga pulau utama di Taman Nasional Komodo. Pulau ini terkenal sebagai habitat asli komodo, spesies kadal terbesar di dunia."
+    gambar: "https://images.unsplash.com/photo-1547387431-a475b8a1a1e4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pulau Komodo adalah salah satu dari tiga pulau utama di Taman Nasional Komodo. Pulau ini terkenal sebagai habitat asli komodo, spesies kadal terbesar di dunia.",
   },
   {
     id: 12,
@@ -116,8 +116,8 @@ let data = [
     kota: "Manggarai Barat",
     provinsi: "NTT",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Labuan Bajo adalah sebuah kota nelayan yang sibuk di ujung barat Flores di provinsi Nusa Tenggara Timur. Ini adalah titik awal untuk perjalanan ke Taman Nasional Komodo."
+    gambar: "https://images.unsplash.com/photo-1599301411383-9110a30704d9?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Labuan Bajo adalah sebuah kota nelayan yang sibuk di ujung barat Flores di provinsi Nusa Tenggara Timur. Ini adalah titik awal untuk perjalanan ke Taman Nasional Komodo.",
   },
   {
     id: 13,
@@ -126,8 +126,8 @@ let data = [
     kota: "Yogyakarta",
     provinsi: "DI Yogyakarta",
     rating: 4.7,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Jalan Malioboro adalah jalan perbelanjaan utama di Yogyakarta, Indonesia. Jalan ini dipenuhi dengan toko-toko, restoran, dan pedagang kaki lima yang menjual berbagai macam barang."
+    gambar: "https://images.unsplash.com/photo-1601614392241-11a5501b1385?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Jalan Malioboro adalah jalan perbelanjaan utama di Yogyakarta, Indonesia. Jalan ini dipenuhi dengan toko-toko, restoran, dan pedagang kaki lima yang menjual berbagai macam barang.",
   },
   {
     id: 14,
@@ -136,8 +136,8 @@ let data = [
     kota: "Yogyakarta",
     provinsi: "DI Yogyakarta",
     rating: 4.6,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Keraton Yogyakarta adalah istana resmi Kesultanan Yogyakarta. Kompleks istana ini merupakan contoh arsitektur istana Jawa yang terbaik."
+    gambar: "https://images.unsplash.com/photo-1592392409953-9e4a3089d712?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Keraton Yogyakarta adalah istana resmi Kesultanan Yogyakarta. Kompleks istana ini merupakan contoh arsitektur istana Jawa yang terbaik.",
   },
   {
     id: 15,
@@ -146,8 +146,8 @@ let data = [
     kota: "Bandung",
     provinsi: "Jawa Barat",
     rating: 4.6,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Tangkuban Perahu adalah gunung berapi aktif di Jawa Barat, Indonesia. Gunung ini merupakan salah satu tujuan wisata paling populer di daerah Bandung."
+    gambar: "https://images.unsplash.com/photo-1588600241604-1f91b723a1a6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Tangkuban Perahu adalah gunung berapi aktif di Jawa Barat, Indonesia. Gunung ini merupakan salah satu tujuan wisata paling populer di daerah Bandung.",
   },
   {
     id: 16,
@@ -156,8 +156,8 @@ let data = [
     kota: "Bogor",
     provinsi: "Jawa Barat",
     rating: 4.7,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Kebun Raya Bogor adalah sebuah kebun raya besar yang terletak di kota Bogor, Indonesia. Kebun ini memiliki lebih dari 15.000 jenis koleksi pohon dan tumbuhan."
+    gambar: "https://images.unsplash.com/photo-1616781292023-e18e8d8b6a4a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Kebun Raya Bogor adalah sebuah kebun raya besar yang terletak di kota Bogor, Indonesia. Kebun ini memiliki lebih dari 15.000 jenis koleksi pohon dan tumbuhan.",
   },
   {
     id: 17,
@@ -166,8 +166,8 @@ let data = [
     kota: "Pangandaran",
     provinsi: "Jawa Barat",
     rating: 4.5,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pantai Pangandaran adalah sebuah pantai yang terletak di Kabupaten Pangandaran, Jawa Barat. Pantai ini terkenal dengan pasir putihnya yang lembut dan air lautnya yang jernih."
+    gambar: "https://images.unsplash.com/photo-1618359201833-3d0d84391e6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pantai Pangandaran adalah sebuah pantai yang terletak di Kabupaten Pangandaran, Jawa Barat. Pantai ini terkenal dengan pasir putihnya yang lembut dan air lautnya yang jernih.",
   },
   {
     id: 18,
@@ -176,8 +176,8 @@ let data = [
     kota: "Manado",
     provinsi: "Sulawesi Utara",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Taman Nasional Bunaken adalah taman laut di lepas pantai Manado, Sulawesi Utara, Indonesia. Taman ini terkenal dengan keanekaragaman hayati lautnya yang luar biasa."
+    gambar: "https://images.unsplash.com/photo-1628994336339-b47a1ea64516?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Taman Nasional Bunaken adalah taman laut di lepas pantai Manado, Sulawesi Utara, Indonesia. Taman ini terkenal dengan keanekaragaman hayati lautnya yang luar biasa.",
   },
   {
     id: 19,
@@ -186,8 +186,8 @@ let data = [
     kota: "Wangi-Wangi",
     provinsi: "Sulawesi Tenggara",
     rating: 4.9,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Taman Nasional Wakatobi adalah taman nasional laut yang terletak di Kabupaten Wakatobi, Sulawesi Tenggara, Indonesia. Taman ini merupakan salah satu dari Situs Warisan Dunia UNESCO."
+    gambar: "https://images.unsplash.com/photo-1622990264182-5561a33758a0?q=80&w=2018&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Taman Nasional Wakatobi adalah taman nasional laut yang terletak di Kabupaten Wakatobi, Sulawesi Tenggara, Indonesia. Taman ini merupakan salah satu dari Situs Warisan Dunia UNESCO.",
   },
   {
     id: 20,
@@ -196,8 +196,8 @@ let data = [
     kota: "Makassar",
     provinsi: "Sulawesi Selatan",
     rating: 4.5,
-    gambar: "https://plus.unsplash.com/premium_photo-1700954824012-08ce5362e6c6?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    deskripsi: "Pantai Losari adalah sebuah pantai yang terletak di pusat kota Makassar, Sulawesi Selatan. Pantai ini merupakan salah satu ikon kota Makassar dan tempat yang populer untuk bersantai."
+    gambar: "https://images.unsplash.com/photo-1620025735165-805179069324?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    deskripsi: "Pantai Losari adalah sebuah pantai yang terletak di pusat kota Makassar, Sulawesi Selatan. Pantai ini merupakan salah satu ikon kota Makassar dan tempat yang populer untuk bersantai.",
   },
 ];
 

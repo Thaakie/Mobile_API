@@ -5,6 +5,7 @@ const cors = require("cors");
 const app = express();
 const port = 3000;
 const wisataRoutes = require("./routes/wisataRoutes.js");
+const kendaraanRoutes = require("./routes/kendaraanRoutes.js");
 
 app.use(cors());
 app.use(express.json());
@@ -13,9 +14,9 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "Wisata API",
+      title: "Wisata & Kendaraan API",
       version: "1.0.0",
-      description: "API wisata Indonesia",
+      description: "API data wisata Indonesia dan kendaraan",
     },
     servers: [
       {
@@ -28,7 +29,7 @@ const options = {
       },
     ],
   },
-  apis: ["./src/routes/wisataRoutes.js"],
+  apis: ["./src/routes/wisataRoutes.js", "./src/routes/kendaraanRoutes.js"],
 };
 
 const specs = swaggerJsdoc(options);
@@ -45,6 +46,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/api/data", wisataRoutes);
+app.use("/api/kendaraan", kendaraanRoutes);
 
 app.listen(port, () => {
   console.log(`app listening on port ${port}`);
